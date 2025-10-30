@@ -1,5 +1,3 @@
-package cs250.hw2;
-
 import java.util.Random;
 import java.util.TreeSet;
 import java.util.LinkedList;
@@ -151,3 +149,4 @@ public class Memory {
         System.out.printf("Avg time to find in list: %.2f nanoseconds%n", totalLinkedListTime / (double) experiments);
     }
 }
+
